@@ -73,7 +73,9 @@ Critical Considerations
 • Class Imbalance: FER2013 is skewed—consider class weighting or augmentation.
 • Lighting & Resolution: Good lighting improves detection & classification accuracy.
 • Model Choice: Try lighter backbones (e.g. MobileNetV2) for faster mobile deployment.
-Contributing
+
+## 🤝 Contributing
+
 1. Fork this repo
 2. Create a feature branch (git checkout -b feature/awesome)
 3. Make your changes & add tests
